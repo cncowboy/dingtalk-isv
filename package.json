@@ -16,7 +16,8 @@
     "url": "git+https://github.com/baipgydx729/dingtalk-isv.git"
   },
   "dependencies": {
-    "superagent": "1.6.1"
+    "superagent": "1.6.1",
+    "jshashes": "1.0.7"
   },
   "licenses": "MIT",
   "email": "bpd729@gmail.com",
